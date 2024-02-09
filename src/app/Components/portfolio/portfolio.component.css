@@ -1,0 +1,15 @@
+.layer {
+    background-color: #1abc9ce6;
+    opacity: 0;
+    cursor: pointer;
+    transition: 1s opacity;
+}
+
+.layer:hover {
+    opacity: 1;
+}
+
+.line {
+    height: 4px;
+    width: 80px;
+}
